@@ -1,0 +1,3 @@
+[
+{ "keys": ["alt+r"], "command": "sublime_to_console" }
+]

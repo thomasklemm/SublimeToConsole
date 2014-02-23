@@ -1,0 +1,7 @@
+{
+  // Uncomment the program you want send commands to:
+  "program": "Terminal.app"
+  // "program": "iTerm"
+  // "program": "tmux"
+  // "program": "screen"
+}
